@@ -5,7 +5,7 @@ The purpose of this script is to get all interfaces from all IONs and provide th
 MIT
 
 #### Requirements
-* Active Prisma SD-WAN Account - Please generate your API token and add it to prismasase_settings.py
+* Active Prisma SD-WAN Account - Please generate your service account and add it to prismasase_settings.py
 * Python >=3.7
 
 #### Installation:
